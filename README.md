@@ -57,20 +57,42 @@ A robust console-based library management system developed in C, featuring secur
    ./library   # Linux/Mac
    library.exe # Windows
 
-### First Run Instructions
- 1.Create a librarian account when prompted
- 2.Use menu options to:
-	-Add sample books
-	-Create student accounts
-	-Explore all features
+## 🚀 First Run Instructions
 
-📝 Usage Guide
-1. Librarian Access:
-	-Add/Edit/Delete books
-	-View all transactions
-	-Manage user accounts
+1. **Create a Librarian Account**  
+   When first running the program, you'll be prompted to create a librarian account.
 
-2. Student Access:
-	-Search available books
-	-View book details
-	-Check due dates
+2. **Initial Setup**  
+   Use the menu options to:
+   - Add sample books to the system
+   - Create student accounts
+   - Explore all available features
+
+---
+
+## 📝 Usage Guide
+
+### 👨‍💼 **Librarian Access**  
+*Full system control with these privileges:*
+- **Book Management**
+  - Add new books
+  - Edit existing book details
+  - Delete books from system
+- **Transaction Oversight**
+  - View all issued books
+  - Check return status
+- **User Administration**
+  - Create/delete student accounts
+  - Manage user privileges
+
+### 👩‍🎓 **Student Access**  
+*Limited to these functions:*
+- **Book Discovery**
+  - Search available books by:
+    - Title
+    - Author
+    - Category
+- **Information Viewing**
+  - Check book details
+  - View due dates
+  - See availability status
