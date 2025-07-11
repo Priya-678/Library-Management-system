@@ -64,14 +64,6 @@ First Run Instructions
 	Create student accounts
 	Explore all features
 
-.
-🧰 File Structure
-├── librarymanagement.c  # Main source code
-├── account.txt          # User database
-├── book.txt             # Book database
-├── issue.txt            # Transaction records
-└── README.md            # This documentation
-
 📝 Usage Guide
 1. Librarian Access:
 	Add/Edit/Delete books
